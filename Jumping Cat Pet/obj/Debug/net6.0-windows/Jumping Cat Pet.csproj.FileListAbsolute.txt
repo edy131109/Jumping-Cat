@@ -1,0 +1,18 @@
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\bin\Debug\net6.0-windows\Jumping Cat Pet.exe
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\bin\Debug\net6.0-windows\Jumping Cat Pet.deps.json
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\bin\Debug\net6.0-windows\Jumping Cat Pet.runtimeconfig.json
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\bin\Debug\net6.0-windows\Jumping Cat Pet.dll
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\bin\Debug\net6.0-windows\Jumping Cat Pet.pdb
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\Jumping Cat Pet.csproj.AssemblyReference.cache
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\Jumping_Cat_Pet.Form1.resources
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\Jumping Cat Pet.csproj.GenerateResource.cache
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\Jumping Cat Pet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\Jumping Cat Pet.AssemblyInfoInputs.cache
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\Jumping Cat Pet.AssemblyInfo.cs
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\Jumping Cat Pet.csproj.CoreCompileInputs.cache
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\Jumping Cat Pet.dll
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\refint\Jumping Cat Pet.dll
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\Jumping Cat Pet.pdb
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\Jumping Cat Pet.genruntimeconfig.cache
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\ref\Jumping Cat Pet.dll
+C:\Users\lazar\source\repos\Jumping Cat Pet\Jumping Cat Pet\obj\Debug\net6.0-windows\Jumping_Cat_Pet.Properties.Resources.resources
